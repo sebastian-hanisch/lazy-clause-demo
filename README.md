@@ -1,7 +1,6 @@
 # Lazy Clause Generation – ein Propagator erklärt seinen Schluss – Streamlit-Demo
 
-<!-- TODO nach dem Deploy: direkt hierher den Live-Link setzen (Leerzeile davor und danach):
-**[→ Demo live ausprobieren](https://sebastianhanisch-lazy-clause-demo.streamlit.app/)** -->
+**[→ Demo live ausprobieren](https://sebastianhanisch-lazy-clause-demo.streamlit.app/)**
 
 Stück der **sat-constraint-programming**-Linie in der „Konzepte“-Reihe für die Website „Sebastian Hanisch – Operations Research und Machine Learning“, Konvergenz des SAT-Arms (Stück 1, Konfliktklauseln lernen) und des CP-Arms (Stück 10, AllDifferent, und Stück 11, Disjunktiv und Edge-Finding). Nachfolger ist die Verfahrenswahl (Stück 12), die auf diese Demo verweist. Vehikel: der Job Shop in der Order-Kodierung (Hauptexperimente) und das Schubfach als zweites Beispiel.
 
